@@ -17,6 +17,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 
 import com.example.androiduf1luisalbertofernandez.R;
+import com.example.androiduf1luisalbertofernandez.databinding.ActivityMainBinding;
 import com.example.androiduf1luisalbertofernandez.viewmodel.AuthViewModel;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.firebase.auth.FirebaseUser;
